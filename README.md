@@ -6,13 +6,13 @@ I am currently studying to become a fullstack developer and system engineer :D
 
 ## skills
 
-* CSS
-* JavaScript
-* Java
-* PostgresSQL
-* react
-* Redux
-* Node.js
+⭐ CSS
+⭐JavaScript
+⭐ Java
+⭐ PostgresSQL
+⭐ react
+⭐ Redux
+⭐ Node.js
 
 ## Contact
 
