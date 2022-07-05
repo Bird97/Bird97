@@ -13,6 +13,7 @@ I am currently studying to become a fullstack developer and system engineer :D
 ⭐ react
 ⭐ Redux
 ⭐ Node.js
+⭐ Sequalize
 
 ## Contact
 
