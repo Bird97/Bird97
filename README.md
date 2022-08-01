@@ -2,7 +2,7 @@
 
 My name es Juan Pájaro, I'm from Colombia and I'm a Developer.
 
-I am currently studying to become a fullstack developer and system engineer :D  
+I am currently studying to become a Fullstack Developer and System Engineer :D  
 
 ## skills
 
