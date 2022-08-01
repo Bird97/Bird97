@@ -10,7 +10,7 @@ I am currently studying to become a Fullstack Developer and System Engineer :D
 ⭐JavaScript
 ⭐ Java
 ⭐ PostgresSQL
-⭐ react
+⭐ React
 ⭐ Redux
 ⭐ Node.js
 ⭐ Sequalize
