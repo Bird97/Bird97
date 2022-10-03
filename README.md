@@ -1,6 +1,6 @@
 ## Hello
 
-My name es Juan Pájaro, I'm from Colombia and I'm a Developer.
+My name is Juan Pájaro, I'm from Colombia and I'm a Developer.
 
 I am currently studying to become a Fullstack Developer and System Engineer :D  
 
