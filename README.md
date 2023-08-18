@@ -7,14 +7,10 @@ I am currently studying to become a Fullstack Developer and System Engineer :D
 ## skills
 
 ⭐ CSS
-⭐JavaScript
+⭐ JavaScript
 ⭐ Java
 ⭐ PostgresSQL
-⭐ React
-⭐ Redux
+⭐ Angular
+⭐ Nest.js
 ⭐ Node.js
-⭐ Sequalize
-
-## Contact
-
-Find all of my socials and resume in my [website](https://juanpajaro.tech/)
+⭐ typeORM
