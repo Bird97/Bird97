@@ -6,11 +6,17 @@ I am currently studying to become a Fullstack Developer and System Engineer :D
 
 ## skills
 
-⭐ CSS
-⭐ JavaScript +++
-⭐ Java
-⭐ PostgresSQL +++
+Back:
+⭐ JavaScript 
+⭐ PostgresSQL 
+⭐ Nest.js 
+⭐ Node.js 
+⭐ typeORM
+⭐ AWS
+
+Front:
 ⭐ Angular
-⭐ Nest.js +++
-⭐ Node.js +++
-⭐ typeORM +++
+⭐ HTML
+⭐ CSS
+⭐ Sass
+
