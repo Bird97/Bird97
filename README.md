@@ -8,9 +8,10 @@ I am currently studying to become a System Engineer
 
 Back:
 ⭐ JavaScript 
+⭐ Typescript 
 ⭐ SQL
-⭐ Nest.js 
 ⭐ Node.js 
+⭐ Nest.js 
 ⭐ typeORM
 ⭐ AWS
 
