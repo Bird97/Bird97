@@ -10,13 +10,13 @@ Back:
 ⭐ JavaScript 
 ⭐ Typescript 
 ⭐ SQL
-⭐ Node.js 
 ⭐ Nest.js 
 ⭐ typeORM
 ⭐ AWS
 
 Front:
 ⭐ Angular
+⭐ React
 ⭐ HTML
 ⭐ CSS
 ⭐ Sass
